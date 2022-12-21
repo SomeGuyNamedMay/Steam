@@ -1,0 +1,59 @@
+colors.styles
+{
+	// Adwaita colors from https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/named-colors.html
+	colors
+	{
+		accent="119 184 221 255"
+		accent_bg="119 184 221 255"
+		accent_fg="187 206 233 255"
+
+		destructive="239 117 119 255"
+		destructive_bg="239 117 119 255"
+		destructive_fg="187 206 233 255"
+
+		success="165 224 220 255"
+		success_bg="165 224 220 255"
+		success_fg="187 206 233 255"
+
+                warning="196 190 121 255"
+		warning_bg="196 190 121 255"
+		warning_fg="0 0 0 204"
+
+		error="239 117 119 255"
+		error_bg="239 117 119 255"
+		error_fg="187 206 233 255"
+
+		window_bg="42 49 69 255"
+		window_bg_transparent="42 49 69 0"
+		window_fg="187 206 233 255"
+		window_border="42 49 69 255"
+
+		headerbar_bg="63 74 103 255"
+		headerbar_fg="187 206 233 255"
+		headerbar_backdrop="42 49 69 255"
+		headerbar_backdrop_fg="187 206 233 255"
+		headerbar_shade="63 74 103 255"
+
+		view_bg="42 49 69 255"
+		view_fg="187 206 233 255"
+
+		popover_bg="63 74 103 255"
+		popover_bg_transparent="63 74 103 0"
+		popover_fg="187 206 233 255"
+
+                button_bg="187 206 233 27" // surface0
+                button_hover_bg="187 206 233 55" //surface1
+                button_active_bg="63 74 103 255" //surface2
+                button_disabled_bg="187 206 233 55" // surface1
+		button_fg="187 206 233 255" //text
+                button_disabled_fg="187 206 233 255" //subtext0
+
+		border="63 74 103 255"
+
+		scrollbar="42 49 69 255"
+		scrollbar_hover="187 206 233 255"
+		scrollbar_active="63 74 103 255"
+
+		focusring="119 173 221 128"
+	}
+}
